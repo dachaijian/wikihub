@@ -1,0 +1,7 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - First: first.md
+theme:
+  name: 'material'
+
